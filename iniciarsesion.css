@@ -1,0 +1,103 @@
+.logo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo img{
+    width: 18%;
+    margin: auto;
+}
+
+.registro{
+    margin: 0 auto;
+    width: 300px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: row;
+}
+
+.formulario img{
+    margin: 0 auto;
+    width: 70%;
+    padding: 20px;
+
+}
+
+.formulario aside{
+    flex: 50%;
+    padding: 20px;
+}
+
+.formulario section{
+    flex: 50%;
+    padding-top: 60px;
+}
+
+h2{
+    text-align: center;
+
+}
+        
+.casillas {
+    width: 100%;
+    background: #F1F2F7;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+
+  .crear{
+    width: 108%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 5px 0;
+    font-size: 16px;
+  }
+
+  .nosotros{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.servicios{
+    margin-left: 5px;
+    margin-right: 20px;
+}
+
+.contactanos{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.iniciarsesion{
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.crearcuenta{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.piedepagina{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logonegro2{
+    width: 10%;
+    height: 10%;
+    margin: 1px;
+   /*  top:20px;
+    right:20px;
+    left:20px;
+    height:20px; */
+}

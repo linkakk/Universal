@@ -1,0 +1,50 @@
+.logo{
+    display: flex;
+    justify-content: space-around ;
+}
+
+.logo img{
+    width: 18%;
+    height: 18%;
+    margin: auto;
+}
+
+.dashboard{
+    display: flex;
+    flex-direction: row;
+}
+
+aside.panel{
+    flex: 0%;
+    padding: 15px;
+    background-color: #F1F2F7;
+}
+
+h3.panel2{
+    margin: 0px;
+    text-align: left;
+    font-size: 14px;
+}
+
+section.usuarios{
+    flex: 100%;
+    padding: 20px;
+}
+
+img.whatsappjpg{
+    display: block;
+    width: 30%;
+    height: 60%;
+    margin: auto;
+}
+
+h2{
+    margin: 0px;
+    text-align: center;
+}
+
+p{
+        margin: 0px;
+        text-align: center;
+        padding: 20px;
+}
