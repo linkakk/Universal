@@ -1,0 +1,125 @@
+.logo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo img{
+    width: 18%;
+    margin: auto;
+}
+
+.nosotros{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.servicios{
+    margin-left: 5px;
+    margin-right: 20px;
+}
+
+.contactanos{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.iniciarsesion{
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+    
+.crearcuenta{
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+
+div.intro {
+    display: flex;
+    flex-direction: row;
+}
+
+aside{
+    flex: 50%;
+}
+
+section{
+    flex: 50%;   
+}
+
+img.intro1{
+    margin: 0 auto;
+    padding-left: 100px;
+    padding-top: 75px;
+    padding-bottom: 0%;
+}
+
+h1{
+    text-align: center;
+    margin: 0 auto;
+}
+
+h3{
+    text-align: center;
+    margin: 0 auto;
+}
+
+div.parte3{
+    display: flex;
+    flex-direction: row;
+}
+
+img.icono1{
+    margin: 0 auto;
+    padding-left: 175px;
+}
+
+img.icono2{
+    margin: 0 auto;
+    padding-left: 175px;
+}
+
+img.icono3{
+    margin: 0 auto;
+    padding-left: 175px;
+}
+
+img.icono4{
+    margin: 0 auto;
+    padding-left: 175px;
+}
+
+img.icono5{
+    margin: 0 auto;
+    padding-left: 175px;
+}
+
+img.icono6{
+    margin: 0 auto;
+    padding-left: 175px;
+}
+
+h3.texto1{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+footer.footer1{
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+}
+
+img.logonegro2{
+    width: 7%;
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+
+h5.descargaloahora{
+    margin-left: 20px;
+    margin-right: 20px;
+}
