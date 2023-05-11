@@ -85,3 +85,70 @@ margin-right: 20px;
     margin-left: 20px;
     margin-right: 20px;
 }
+
+footer.footer1{
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+}
+
+img.logonegro2{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    padding-top: 50px;
+    padding-left: 0px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+}
+
+h3.descargalo{
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+h3.acerca{
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+h3.licencia{
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+h3.contactanos1{
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+h3.ayuda{
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+h3.polticas{
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 55px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
